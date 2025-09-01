@@ -1,0 +1,3 @@
+[submodule "Left Panel/ARC-210"]
+	path = Left Panel/ARC-210
+	url = https://github.com/dgdimick/ARC-210-DCS-Display.git
