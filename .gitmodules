@@ -2,3 +2,6 @@
 	path = Left Panel/ARC-210
 	url = https://github.com/dgdimick/ARC-210-DCS-Display.git
 	branch = master
+[submodule "Left Panel/ARC-164"]
+	path = Left Panel/ARC-164
+	url = https://github.com/dgdimick/ARC-164-DCS-Display.git
