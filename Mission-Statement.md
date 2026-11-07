@@ -1,6 +1,6 @@
 # Why I Build and Share These Projects
 
-**Last updated: November 7, 2026 at 1:00 PM MST (America/Denver)**
+**Last updated: November 7, 2026 at 1:04 PM MST (America/Denver)**
 
 My goal is to make cockpit-building projects that give other people the same opportunity to explore, learn, and create that I had growing up. I want to work through the difficult design problems and share the files, parts lists, firmware, and practical instructions someone needs to build a working panel—and enjoy the satisfaction of saying, **“I built that.”**
 
@@ -65,5 +65,3 @@ But I understand that a parts list and soldering instructions don’t remove eve
 I also understand that some people would rather spend their time flying. They want a completed panel they can connect, set up, and use. If that describes you, get in touch. I’m open to discussing extra help, including assembly and setup, depending on the project and the time I have available.
 
 These are personal projects, and they develop as I learn, test, and find time to work on them. Building and sharing them remains my main focus.
-
-Those electronics stores gave me a place to explore when I was young. Other cockpit builders later showed me what was possible. Through these projects, I hope to pass that encouragement along—and help someone else experience the enjoyment of bringing a pile of parts to life.
