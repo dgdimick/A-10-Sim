@@ -1,6 +1,6 @@
 # Why I Build and Share These Projects
 
-**Last updated: November 4, 2026 at 5:29 AM MST (America/Denver)**
+**Last updated: November 7, 2026 at 1:00 PM MST (America/Denver)**
 
 My goal is to make cockpit-building projects that give other people the same opportunity to explore, learn, and create that I had growing up. I want to work through the difficult design problems and share the files, parts lists, firmware, and practical instructions someone needs to build a working panel—and enjoy the satisfaction of saying, **“I built that.”**
 
@@ -36,7 +36,7 @@ I later moved into computer networking. Once again, I was putting things togethe
 
 I’d spent time with flight simulators and other computer games, but it wasn’t until I discovered DCS that I found something that brought these interests together.
 
-After buying a few A-10C II panels, including the Warning Panel and CDP, I decided to start making my own controls. Websites like The Warthog Project and the work of other cockpit builders gave me ideas and showed me what was possible.
+After buying a few A-10C II panels, including the Warning Panel and CDU, I decided to start making my own controls. Websites like The Warthog Project and the work of other cockpit builders gave me ideas and showed me what was possible.
 
 The ARC-210 particularly caught my attention. With all its buttons, rotary switches, encoders, and menus, it looked like something I’d enjoy figuring out how to build. Maybe my background as a Marine radio operator helped draw me to it. I’m not entirely sure, but something about that panel made me want to bring it to life in my own cockpit.
 
